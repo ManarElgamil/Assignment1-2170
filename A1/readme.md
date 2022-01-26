@@ -2,8 +2,11 @@
 
 
 Name = Manar Elgamil
+
 Student ID = B00878259
+
 email address = mn707104@dal.ca
+
 Link to git repository = https://git.cs.dal.ca/courses/2022-winter/csci-2170/a1/elgamil/-/tree/main/A1
 
 #Citations:
