@@ -1,0 +1,52 @@
+/* CSS Styles */
+
+
+/* Changing color of nav links */
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: orange;
+}
+
+/* Changing images size */
+.logo {
+  height: 48px;
+  padding: 2px 10px;
+}
+
+.grad-img {
+  height: 300px;
+}
+
+footer div {
+  background-color: black;
+  min-height: 8vh;
+}
+
+footer p {
+  color:white;
+}
+
+
+.my-form {
+
+  background-color: lightgray;
+}
+
+.background {
+  background-color: white;
+}
+
+.navbar {
+  background-color: black;
+}
+
+.my-background {
+  background-color: lightgray;
+}
+
+main {
+  font-family: garamond;
+}

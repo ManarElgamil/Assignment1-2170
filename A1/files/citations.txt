@@ -1,0 +1,75 @@
+
+<p>Citations for text:</p>
+<p>
+Dalhousie Rules on Academic integrity, Text copy pasted in the integrity <br>section, from brightspace, <br> 
+Authors: Dalhousie University, <br>
+URL: https://www.dal.ca/dept/university_secretariat/academic-integrity.html, <br>
+Date accessed: 20 Jan 2022</p>
+
+<br>
+<p>
+Bootstrap CSS and JS files used from the CDN, <br>
+Authors: Bootstrap developers, <br>
+URL: https://getbootstrap.com/docs/5.1/getting-started/download/, <br>
+Date accessed: 20 Jan 2022 <br> </p>
+
+<br>
+
+<p>Citations for Youtube videos:</p>
+
+<p>
+"Using the Bootstrap 4 Grid | BOOTSTRAP 4 TUTORIAL", Youtube video that helped me understand using grids in bootstrap and getting a general understanding of how to implement this in this assignment, <br>
+Authors: Academind, <br>
+URL: https://www.youtube.com/watch?v=qmPmwdshCMw&t=189s, <br>
+Date accessed: 20 Jan 2022 <br>
+</p>
+
+<p>
+"Getting Started With Bootstrap 4, Part 4: Spacing Elements", Youtube video that helped me understand using spacing and margins in bootstrap so that I could space my content with classes from bootstrap to keep my page responsive, <br>
+Authors: CodeTime, <br>
+URL: https://www.youtube.com/watch?v=zWhBjLEhnbk, <br>
+Date accessed: 20 Jan 2022 <br>
+</p>
+
+<p>
+Citations for images: <br>
+</p>
+
+<p>
+Image Used for the pledge section, <br>
+Authors: By YellowstoneNPS, <br>
+URL: https://wordpress.org/openverse/photos/218f46d2-8f96-4546-bebc-a42404715fc7, <br>
+Date accessed: 17 Jan 2022<br>
+</p>
+
+<p>
+Image Used for the integrity section, "The Student-Athlete, Academic Integrity, and Intercollegiate Athletics" <br>
+Authors: By American Council on Education, <br>
+URL: https://wordpress.org/openverse/photos/fd7ac74a-6eae-4db2-8dd2-66fab9b6d00c, <br>
+Date accessed: 17 Jan 2022 <br>
+</p>
+
+<p>
+Image Used for the Logo, <br>
+Authors: CleanPNG, <br>
+URL: https://www.google.com/search?q=logo+png&tbm=isch&ved=2ahUKEwigxLmEqLz1AhXWqHIEHeViCvMQ2-cCegQIABAA&oq=logo<br>+&gs_lcp=CgNpbWcQARgBMgcIABCxAxBDMgQIABBDMgcIABCxAxBDMgcIABCxAxBDMgQIABBDMg<br>QIABBDMgcIABCxAxBDMgcIABCxAxBDMgQIABBDMgQIABBDOgcIIxDvAxAnUPgCWPgCYPwYa<br>ABwAHgAgAFdiAGuAZIBATKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Pz<br>rnYeCoKtbRytMP5cWpmA8&bih=664&biw=1536&rlz=1C1GCEA_enEG805EG809#imgrc=4OJ5puz4IiJWnM, <br>
+Date accessed: 17 Jan 2022 <br>
+</p>
+
+<p>
+Image Used for homepage picture:<br>
+Authors: LexisEnglish, <br>
+URL: https://lexisenglish.com/graduation-day-sunshine-coast-5-02-21/graduation-header-6/, <br>
+Date accessed: 20 Jan 2022 <br>
+</p>
+
+<p>
+Zybook, used to read files. <br>
+Authors: Frank McCown / Associate Professor of Computer Science / Harding University, <br>
+URL: https://learn.zybooks.com/zybook/DALCSCI2170SampangiWinter2022, <br>
+Date accessed: 20 Jan 2022 <br>
+</p>
+
+
+
+
